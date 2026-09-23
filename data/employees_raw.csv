@@ -1,0 +1,253 @@
+employee_code,first_name,last_name,email,department,designation,salary,joining_date,status
+EMP0001,Siddharth,Verma,siddharth.verma1@opsflow.com,Engineering,QA Engineer,67098,2022-07-03,Active
+EMP0002,Aman,Agarwal,aman.agarwal2@opsflow.com,Marketing,Content Specialist,46395,2024-09-24,Active
+EMP0003,Akash,Gupta,akash.gupta3@opsflow.com,IT,IT Support Engineer,113907,2020-04-18,Active
+EMP0004,Tanvi,Agarwal,tanvi.agarwal4@opsflow.com,Marketing,Content Specialist,89987,2022-06-21,Active
+EMP0005,Ishaan,Malhotra,ishaan.malhotra5@opsflow.com,Operations,Operations Associate,134458,2021-10-15,Active
+EMP0006,Kavya,Patel,kavya.patel6@opsflow.com,IT,System Administrator,135072,2023-10-10,Active
+EMP0007,Neha,Verma,neha.verma7@opsflow.com,Finance,Accountant,114131,2022-12-19,Inactive
+EMP0008,Varun,Yadav,varun.yadav8@opsflow.com,Sales,Sales Executive,84615,2020-11-18,Active
+EMP0009,Siddharth,Mehta,siddharth.mehta9@opsflow.com,Operations,Operations Manager,110674,2022-02-26,Active
+EMP0010,Aditi,Agarwal,aditi.agarwal10@opsflow.com,IT,DevOps Engineer,45458,2022-08-11,Inactive
+EMP0011,Neha,Patel,neha.patel11@opsflow.com,HR,Recruitment Specialist,144328,2024-02-03,Active
+EMP0012,Meera,Gupta,meera.gupta12@opsflow.com,Marketing,Marketing Manager,126988,2020-10-19,Active
+EMP0013,Arjun,Kumar,arjun.kumar13@opsflow.com,Marketing,Marketing Executive,56417,2025-03-08,Active
+EMP0014,Siddharth,Joshi,siddharth.joshi14@opsflow.com,Sales,Sales Executive,124733,2023-08-21,Inactive
+EMP0015,Vivek,Sharma,vivek.sharma15@opsflow.com,IT,System Administrator,140518,2023-07-16,Active
+EMP0016,Akash,Gupta,akash.gupta16@opsflow.com,Sales,Business Development Executive,76245,2022-05-20,Active
+EMP0017,Neha,Chauhan,neha.chauhan17@opsflow.com,Marketing,Marketing Manager,53726,2022-12-20,Active
+EMP0018,Varun,Kumar,varun.kumar18@opsflow.com,Sales,Sales Manager,132912,2024-10-20,Inactive
+EMP0019,Neha,Mishra,neha.mishra19@opsflow.com,IT,System Administrator,101784,2025-07-14,Active
+EMP0020,Aditi,Srivastava,aditi.srivastava20@opsflow.com,Engineering,Senior Software Engineer,117240,2021-10-17,Active
+EMP0021,Nikhil,Mehta,nikhil.mehta21@opsflow.com,Engineering,Project Manager,85019,2025-04-01,Active
+EMP0022,Rohan,Srivastava,rohan.srivastava22@opsflow.com,Engineering,Software Engineer,124353,2022-12-28,Active
+EMP0023,Kavya,Verma,kavya.verma23@opsflow.com,Finance,Accountant,55730,2025-02-01,Active
+EMP0024,Varun,Chauhan,varun.chauhan24@opsflow.com,Marketing,Marketing Manager,100612,2022-01-01,Active
+EMP0025,Aman,Srivastava,aman.srivastava25@opsflow.com,Marketing,Marketing Manager,145319,2025-09-10,Active
+EMP0026,Ananya,Mishra,ananya.mishra26@opsflow.com,Operations,Operations Associate,105697,2025-12-12,On Leave
+EMP0027,Shreya,Mishra,shreya.mishra27@opsflow.com,HR,HR Executive,49662,2024-01-26,Inactive
+EMP0028,Karan,Gupta,karan.gupta28@opsflow.com,Engineering,Senior Software Engineer,109364,2020-11-18,Active
+EMP0029,Rahul,Srivastava,rahul.srivastava29@opsflow.com,Engineering,Senior Software Engineer,51828,2025-04-30,On Leave
+EMP0030,Arjun,Patel,arjun.patel30@opsflow.com,Sales,Business Development Executive,90461,2022-05-17,On Leave
+EMP0031,Vivek,Joshi,invalid-email,Marketing,Marketing Executive,128447,2023-06-30,Active
+EMP0032,Simran,Agarwal,simran.agarwal32@opsflow.com,Finance,Accountant,102839,2025-01-23,Active
+EMP0033,Diya,Verma,diya.verma33@opsflow.com,Finance,Financial Analyst,112110,2022-07-31,Active
+EMP0034,Aarav,Verma,aarav.verma34@opsflow.com,Marketing,Content Specialist,42716,2022-07-26,Active
+EMP0035,Aditi,Srivastava,aditi.srivastava35@opsflow.com,Finance,Financial Analyst,102391,2022-09-01,Active
+EMP0036,Rahul,Gupta,rahul.gupta36@opsflow.com,Sales,Sales Executive,129811,2025-04-20,Active
+EMP0037,Rahul,Malhotra,rahul.malhotra37@opsflow.com,HR,HR Executive,47363,2021-02-01,Active
+EMP0038,Meera,Dubey,meera.dubey38@opsflow.com,HR,HR Manager,148224,2020-08-09,Active
+EMP0039,Siddharth,Verma,siddharth.verma39@opsflow.com,Engineering,Project Manager,130448,2023-10-21,Inactive
+EMP0040,Aman,Gupta,aman.gupta40@opsflow.com,IT,System Administrator,105292,2025-01-11,Active
+EMP0041,Arjun,Patel,arjun.patel41@opsflow.com,HR,HR Executive,-5000,2020-11-04,Active
+EMP0042,Rohan,Verma,rohan.verma42@opsflow.com,Engineering,Software Engineer,47224,2022-08-26,Active
+EMP0043,Rahul,Yadav,rahul.yadav43@opsflow.com,IT,DevOps Engineer,42685,2021-11-05,Active
+EMP0044,Neha,Patel,neha.patel44@opsflow.com,Operations,Operations Manager,72388,2024-09-28,Active
+EMP0045,Varun,Malhotra,varun.malhotra45@opsflow.com,Sales,Business Development Executive,129163,2025-06-16,Active
+EMP0046,Karan,Gupta,karan.gupta46@opsflow.com,Engineering,Software Engineer,133038,2023-07-08,Active
+EMP0047,Sakshi,Yadav,sakshi.yadav47@opsflow.com,Sales,Business Development Executive,55635,2020-08-20,On Leave
+EMP0048,Akash,Srivastava,akash.srivastava48@opsflow.com,IT,System Administrator,112992,2020-10-05,Active
+EMP0049,Diya,Dubey,diya.dubey49@opsflow.com,Engineering,Senior Software Engineer,110880,2020-06-11,Active
+EMP0050,Nikhil,Agarwal,nikhil.agarwal50@opsflow.com,Sales,Business Development Executive,103522,2023-07-19,On Leave
+EMP0051,Aryan,Agarwal,aryan.agarwal51@opsflow.com,Marketing,Marketing Manager,,2022-12-23,Active
+EMP0052,Simran,Agarwal,simran.agarwal52@opsflow.com,Finance,Accountant,76441,2020-10-24,Active
+EMP0053,Shreya,Mehta,shreya.mehta53@opsflow.com,Engineering,Software Engineer,105468,2022-05-23,Active
+EMP0054,Ananya,Chauhan,ananya.chauhan54@opsflow.com,Finance,Financial Analyst,67018,2024-02-22,Active
+EMP0055,Pooja,Srivastava,pooja.srivastava55@opsflow.com,Sales,Business Development Executive,74651,2025-12-06,Active
+EMP0056,Rohan,Patel,rohan.patel56@opsflow.com,Marketing,Marketing Executive,52601,2022-12-19,Active
+EMP0057,Aman,Joshi,aman.joshi57@opsflow.com,Sales,Sales Executive,70697,2023-02-28,Active
+EMP0058,Tanvi,Mishra,tanvi.mishra58@opsflow.com,IT,IT Support Engineer,118130,2022-12-17,Active
+EMP0059,Ishaan,Chauhan,ishaan.chauhan59@opsflow.com,Operations,Operations Associate,47097,2024-09-30,Inactive
+EMP0060,Aditi,Sharma,aditi.sharma60@opsflow.com,Finance,Financial Analyst,118507,2022-12-08,Active
+EMP0061,Pooja,Kumar,pooja.kumar61@opsflow.com,,Marketing Manager,108519,2020-02-09,Active
+EMP0062,Tanvi,Chauhan,tanvi.chauhan62@opsflow.com,IT,IT Support Engineer,39722,2024-02-21,Active
+EMP0063,Ananya,Dubey,ananya.dubey63@opsflow.com,IT,System Administrator,75404,2024-02-02,Inactive
+EMP0064,Aditi,Chauhan,aditi.chauhan64@opsflow.com,Finance,Financial Analyst,124399,2022-10-19,Active
+EMP0065,Meera,Malhotra,meera.malhotra65@opsflow.com,Sales,Sales Manager,116351,2021-09-25,On Leave
+EMP0066,Diya,Srivastava,diya.srivastava66@opsflow.com,IT,System Administrator,89040,2020-04-11,Active
+EMP0067,Kavya,Malhotra,kavya.malhotra67@opsflow.com,HR,Recruitment Specialist,148254,2022-10-13,Active
+EMP0068,Tanvi,Verma,tanvi.verma68@opsflow.com,HR,HR Executive,147537,2025-04-11,Active
+EMP0069,Pooja,Mishra,pooja.mishra69@opsflow.com,Finance,Financial Analyst,64219,2020-04-06,Active
+EMP0070,Neha,Mishra,neha.mishra70@opsflow.com,Finance,Financial Analyst,136361,2023-02-17,Active
+EMP0071,  Riya  ,Dubey,riya.dubey71@opsflow.com,Marketing,Content Specialist,78404,2020-04-23,Active
+EMP0072,Ishaan,Singh,ishaan.singh72@opsflow.com,Sales,Sales Manager,40014,2021-03-20,Active
+EMP0073,Meera,Joshi,meera.joshi73@opsflow.com,Operations,Operations Manager,92199,2025-09-25,Active
+EMP0074,Sakshi,Gupta,sakshi.gupta74@opsflow.com,Finance,Financial Analyst,127901,2024-11-21,Active
+EMP0075,Rohan,Agarwal,rohan.agarwal75@opsflow.com,Marketing,Content Specialist,131605,2022-03-18,Active
+EMP0076,Akash,Agarwal,akash.agarwal76@opsflow.com,Finance,Finance Manager,76145,2021-05-25,Active
+EMP0077,Karan,Kumar,karan.kumar77@opsflow.com,Finance,Finance Manager,88528,2023-08-29,Active
+EMP0078,Karan,Kumar,karan.kumar78@opsflow.com,IT,System Administrator,90108,2024-04-01,Active
+EMP0079,Arjun,Mehta,arjun.mehta79@opsflow.com,Sales,Sales Manager,88225,2020-01-02,Active
+EMP0080,Aryan,Dubey,aryan.dubey80@opsflow.com,Operations,Business Analyst,114516,2023-08-12,Active
+EMP0081,Pooja,Agarwal,pooja.agarwal81@opsflow.com,engineering,IT Support Engineer,97021,2021-11-26,Active
+EMP0082,Karan,Kumar,karan.kumar82@opsflow.com,Marketing,Content Specialist,116167,2023-10-04,Active
+EMP0083,Vivek,Gupta,vivek.gupta83@opsflow.com,Marketing,Marketing Manager,64444,2022-03-26,Active
+EMP0084,Aditi,Gupta,aditi.gupta84@opsflow.com,HR,Recruitment Specialist,146376,2020-10-25,Active
+EMP0085,Siddharth,Mehta,siddharth.mehta85@opsflow.com,IT,IT Support Engineer,126272,2024-04-21,Active
+EMP0086,Diya,Singh,diya.singh86@opsflow.com,Marketing,Content Specialist,35726,2021-03-12,Active
+EMP0087,Diya,Singh,diya.singh87@opsflow.com,Operations,Business Analyst,102889,2025-03-17,Active
+EMP0088,Diya,Chauhan,diya.chauhan88@opsflow.com,Operations,Operations Associate,94829,2021-06-30,Inactive
+EMP0089,Simran,Kumar,simran.kumar89@opsflow.com,Sales,Business Development Executive,76588,2024-12-17,Active
+EMP0090,Varun,Chauhan,varun.chauhan90@opsflow.com,Sales,Sales Manager,143864,2024-12-31,Inactive
+EMP0091,Varun,Srivastava,varun.srivastava91@opsflow.com,HR,HR Manager,68972,2022-10-09,Working
+EMP0092,Ishaan,Malhotra,ishaan.malhotra92@opsflow.com,Operations,Business Analyst,98517,2022-09-06,Active
+EMP0093,Akash,Joshi,akash.joshi93@opsflow.com,Finance,Financial Analyst,70614,2023-10-07,Active
+EMP0094,Rohan,Verma,rohan.verma94@opsflow.com,IT,System Administrator,65311,2024-04-17,Active
+EMP0095,Tanvi,Gupta,tanvi.gupta95@opsflow.com,Engineering,Project Manager,88424,2023-09-17,Active
+EMP0096,Nikhil,Sharma,nikhil.sharma96@opsflow.com,IT,DevOps Engineer,86049,2020-03-21,Inactive
+EMP0097,Vivek,Mehta,vivek.mehta97@opsflow.com,HR,HR Manager,35772,2023-12-11,Active
+EMP0098,Neha,Srivastava,neha.srivastava98@opsflow.com,Operations,Operations Manager,105545,2022-06-22,Active
+EMP0099,Ishaan,Dubey,ishaan.dubey99@opsflow.com,HR,HR Executive,85968,2023-10-08,Active
+EMP0100,Neha,Joshi,neha.joshi100@opsflow.com,IT,DevOps Engineer,51728,2025-12-27,Active
+EMP0101,Neha,Mehta,neha.mehta101@opsflow.com,Sales,Business Development Executive,38552,2025-99-99,Active
+EMP0102,Ananya,Srivastava,ananya.srivastava102@opsflow.com,HR,HR Executive,41590,2022-12-01,Active
+EMP0103,Aryan,Yadav,aryan.yadav103@opsflow.com,Finance,Accountant,134775,2024-04-01,Active
+EMP0104,Nikhil,Patel,nikhil.patel104@opsflow.com,Operations,Operations Associate,96644,2020-03-20,Active
+EMP0105,Aditi,Mishra,aditi.mishra105@opsflow.com,IT,IT Support Engineer,43993,2020-06-13,Active
+EMP0106,Diya,Gupta,diya.gupta106@opsflow.com,Operations,Operations Associate,116439,2021-09-16,Active
+EMP0107,Rahul,Agarwal,rahul.agarwal107@opsflow.com,Engineering,Senior Software Engineer,95952,2022-11-15,Active
+EMP0108,Arjun,Mehta,arjun.mehta108@opsflow.com,Sales,Business Development Executive,129156,2021-04-14,Active
+EMP0109,Arjun,Patel,arjun.patel109@opsflow.com,Engineering,Software Engineer,75888,2024-03-17,Active
+EMP0110,Tanvi,Gupta,tanvi.gupta110@opsflow.com,Engineering,Senior Software Engineer,48356,2023-05-20,Inactive
+EMP12,Shreya,Malhotra,shreya.malhotra111@opsflow.com,Engineering,Software Engineer,80508,2025-12-22,Active
+EMP0112,Meera,Verma,meera.verma112@opsflow.com,Sales,Business Development Executive,79725,2020-02-21,Inactive
+EMP0113,Rahul,Verma,rahul.verma113@opsflow.com,HR,HR Manager,118307,2025-02-26,Active
+EMP0114,Nikhil,Singh,nikhil.singh114@opsflow.com,Marketing,Content Specialist,120256,2023-01-11,Active
+EMP0115,Rohan,Malhotra,rohan.malhotra115@opsflow.com,HR,HR Manager,92091,2023-01-04,Active
+EMP0116,Diya,Srivastava,diya.srivastava116@opsflow.com,Engineering,QA Engineer,94087,2022-09-25,Active
+EMP0117,Sakshi,Mehta,sakshi.mehta117@opsflow.com,Marketing,Marketing Manager,79092,2020-04-27,Active
+EMP0118,Kavya,Singh,kavya.singh118@opsflow.com,HR,HR Executive,81507,2022-11-24,Active
+EMP0119,Shreya,Joshi,shreya.joshi119@opsflow.com,Finance,Finance Manager,36330,2025-10-17,On Leave
+EMP0120,Akash,Gupta,akash.gupta120@opsflow.com,Marketing,Marketing Manager,99038,2022-09-11,Active
+EMP0121,Siddharth,Joshi,,HR,HR Manager,138931,2020-03-11,Active
+EMP0122,Diya,Dubey,diya.dubey122@opsflow.com,Marketing,Marketing Executive,75135,2024-02-20,Active
+EMP0123,Riya,Mishra,riya.mishra123@opsflow.com,HR,Recruitment Specialist,107140,2023-09-16,Active
+EMP0124,Pooja,Patel,pooja.patel124@opsflow.com,Finance,Accountant,65217,2021-05-09,Active
+EMP0125,Kavya,Verma,kavya.verma125@opsflow.com,Marketing,Content Specialist,134901,2022-01-28,Active
+EMP0126,Varun,Yadav,varun.yadav126@opsflow.com,Finance,Finance Manager,112278,2025-11-18,Active
+EMP0127,Aman,Srivastava,aman.srivastava127@opsflow.com,IT,DevOps Engineer,64816,2024-01-18,Active
+EMP0128,Aarav,Joshi,aarav.joshi128@opsflow.com,Sales,Sales Executive,70954,2020-07-05,On Leave
+EMP0129,Rohan,Patel,rohan.patel129@opsflow.com,Marketing,Marketing Executive,118606,2025-07-03,Active
+EMP0130,Aarav,Mehta,aarav.mehta130@opsflow.com,Finance,Accountant,97746,2024-12-09,Active
+EMP0131,Aditi,Patel,aditi.patel131@opsflow.com,Operations,Operations Manager,49953,2020-09-24,Active
+EMP0132,Akash,Mehta,akash.mehta132@opsflow.com,Marketing,Content Specialist,42026,2021-09-13,Active
+EMP0133,Sakshi,Patel,sakshi.patel133@opsflow.com,Engineering,Senior Software Engineer,50525,2024-08-31,Active
+EMP0134,Shreya,Gupta,shreya.gupta134@opsflow.com,Operations,Business Analyst,84856,2025-01-19,On Leave
+EMP0135,Karan,Srivastava,karan.srivastava135@opsflow.com,Sales,Sales Manager,75026,2020-09-03,Active
+EMP0136,Varun,Verma,varun.verma136@opsflow.com,Operations,Operations Associate,116987,2022-05-14,Active
+EMP0137,Akash,Singh,akash.singh137@opsflow.com,IT,System Administrator,107350,2020-11-03,Active
+EMP0138,Nikhil,Yadav,nikhil.yadav138@opsflow.com,Marketing,Content Specialist,96592,2023-04-07,Active
+EMP0139,Karan,Joshi,karan.joshi139@opsflow.com,Finance,Finance Manager,147670,2025-02-02,Active
+EMP0140,Diya,Chauhan,diya.chauhan140@opsflow.com,Finance,Finance Manager,112304,2022-03-21,Active
+EMP0141,Rohan,Gupta,rohan.gupta141@opsflow.com,Marketing,Marketing Executive,69816,2021-08-05,Active
+EMP0142,Arjun,Malhotra,arjun.malhotra142@opsflow.com,Finance,Finance Manager,133167,2023-03-28,Active
+EMP0143,Pooja,Joshi,pooja.joshi143@opsflow.com,Finance,Finance Manager,87757,2023-01-20,Active
+EMP0144,Rahul,Yadav,rahul.yadav144@opsflow.com,Engineering,Software Engineer,91626,2023-08-13,Active
+EMP0145,Aarav,Verma,aarav.verma145@opsflow.com,IT,IT Support Engineer,144570,2020-03-25,On Leave
+EMP0146,Simran,Srivastava,simran.srivastava146@opsflow.com,Finance,Finance Manager,40273,2021-12-18,Active
+EMP0147,Siddharth,Yadav,siddharth.yadav147@opsflow.com,Finance,Financial Analyst,111720,2024-11-20,Active
+EMP0148,Rahul,Verma,rahul.verma148@opsflow.com,HR,HR Manager,88523,2023-09-27,Active
+EMP0149,Aman,Srivastava,aman.srivastava149@opsflow.com,IT,DevOps Engineer,88955,2025-07-22,Active
+EMP0150,Neha,Srivastava,neha.srivastava150@opsflow.com,Operations,Business Analyst,39809,2025-02-05,Active
+EMP0151,Ishaan,Mishra,ishaan.mishra151@opsflow.com,Engineering,Project Manager,148365,2025-10-08,Inactive
+EMP0152,Aarav,Agarwal,aarav.agarwal152@opsflow.com,Operations,Business Analyst,95552,2024-08-19,Active
+EMP0153,Riya,Mishra,riya.mishra153@opsflow.com,Sales,Sales Manager,116973,2024-12-15,Active
+EMP0154,Aryan,Patel,aryan.patel154@opsflow.com,Sales,Sales Executive,72752,2024-11-29,Inactive
+EMP0155,Rahul,Verma,rahul.verma155@opsflow.com,Engineering,Senior Software Engineer,128032,2021-10-10,Active
+EMP0156,Aarav,Kumar,aarav.kumar156@opsflow.com,HR,HR Executive,64451,2021-04-09,Active
+EMP0157,Aman,Agarwal,aman.agarwal157@opsflow.com,Operations,Operations Associate,100323,2023-04-10,Active
+EMP0158,Ishaan,Dubey,ishaan.dubey158@opsflow.com,Operations,Operations Manager,96894,2022-09-25,Active
+EMP0159,Ananya,Dubey,ananya.dubey159@opsflow.com,IT,IT Support Engineer,101616,2021-07-13,Inactive
+EMP0160,Ishaan,Malhotra,ishaan.malhotra160@opsflow.com,Operations,Operations Manager,79548,2025-09-10,Active
+EMP0161,Aarav,Patel,aarav.patel161@opsflow.com,Marketing,Marketing Manager,144769,2025-06-28,Inactive
+EMP0162,Pooja,Kumar,pooja.kumar162@opsflow.com,HR,HR Manager,78573,2024-03-25,Active
+EMP0163,Kavya,Srivastava,kavya.srivastava163@opsflow.com,IT,IT Support Engineer,66300,2024-04-17,Active
+EMP0164,Vivek,Dubey,vivek.dubey164@opsflow.com,Engineering,QA Engineer,132609,2025-04-21,Active
+EMP0165,Neha,Dubey,neha.dubey165@opsflow.com,Marketing,Content Specialist,54936,2025-07-21,On Leave
+EMP0166,Ananya,Kumar,ananya.kumar166@opsflow.com,Sales,Sales Manager,148993,2021-02-15,Inactive
+EMP0167,Pooja,Verma,pooja.verma167@opsflow.com,Sales,Sales Manager,37011,2021-08-13,Active
+EMP0168,Siddharth,Singh,siddharth.singh168@opsflow.com,Engineering,Project Manager,137436,2022-12-21,Active
+EMP0169,Tanvi,Dubey,tanvi.dubey169@opsflow.com,Marketing,Marketing Executive,146642,2023-09-07,Inactive
+EMP0170,Rohan,Dubey,rohan.dubey170@opsflow.com,Finance,Finance Manager,129203,2025-06-21,Inactive
+EMP0171,Aditi,Mehta,aditi.mehta171@opsflow.com,Engineering,Senior Software Engineer,117727,2023-03-23,On Leave
+EMP0172,Varun,Verma,varun.verma172@opsflow.com,HR,HR Executive,134663,2021-02-15,Active
+EMP0173,Tanvi,Patel,tanvi.patel173@opsflow.com,Engineering,Software Engineer,77516,2020-08-17,Active
+EMP0174,Meera,Dubey,meera.dubey174@opsflow.com,IT,System Administrator,104621,2024-08-14,Active
+EMP0175,Arjun,Singh,arjun.singh175@opsflow.com,IT,System Administrator,114887,2024-04-15,Active
+EMP0176,Diya,Yadav,diya.yadav176@opsflow.com,Sales,Sales Executive,65433,2025-03-03,Active
+EMP0177,Pooja,Patel,pooja.patel177@opsflow.com,Marketing,Marketing Executive,140464,2025-03-20,On Leave
+EMP0178,Simran,Kumar,simran.kumar178@opsflow.com,IT,System Administrator,92898,2023-11-16,On Leave
+EMP0179,Karan,Agarwal,karan.agarwal179@opsflow.com,HR,Recruitment Specialist,67780,2025-02-14,Inactive
+EMP0180,Aryan,Dubey,aryan.dubey180@opsflow.com,Operations,Operations Manager,48979,2022-08-29,Active
+EMP0181,Meera,Mehta,meera.mehta181@opsflow.com,Finance,Finance Manager,73696,2020-03-30,On Leave
+EMP0182,Simran,Dubey,simran.dubey182@opsflow.com,Finance,Financial Analyst,109177,2020-07-19,On Leave
+EMP0183,Varun,Yadav,varun.yadav183@opsflow.com,Operations,Operations Manager,136677,2022-07-31,Active
+EMP0184,Meera,Gupta,meera.gupta184@opsflow.com,Marketing,Marketing Executive,116381,2022-10-23,Active
+EMP0185,Varun,Malhotra,varun.malhotra185@opsflow.com,Marketing,Content Specialist,144882,2021-07-14,Active
+EMP0186,Siddharth,Agarwal,siddharth.agarwal186@opsflow.com,Engineering,QA Engineer,138364,2024-12-10,Active
+EMP0187,Meera,Joshi,meera.joshi187@opsflow.com,IT,System Administrator,73680,2023-08-31,Active
+EMP0188,Arjun,Gupta,arjun.gupta188@opsflow.com,IT,IT Support Engineer,149879,2024-02-07,Active
+EMP0189,Ishaan,Srivastava,ishaan.srivastava189@opsflow.com,IT,DevOps Engineer,143093,2025-05-27,On Leave
+EMP0190,Karan,Joshi,karan.joshi190@opsflow.com,Operations,Operations Manager,140412,2021-04-16,Active
+EMP0191,Akash,Singh,akash.singh191@opsflow.com,Operations,Operations Associate,147740,2024-06-15,On Leave
+EMP0192,Rohan,Mishra,rohan.mishra192@opsflow.com,Engineering,Project Manager,36824,2022-12-19,Active
+EMP0193,Pooja,Mishra,pooja.mishra193@opsflow.com,Marketing,Content Specialist,123125,2022-12-09,Active
+EMP0194,Siddharth,Mishra,siddharth.mishra194@opsflow.com,Engineering,Senior Software Engineer,96797,2020-04-12,Active
+EMP0195,Rohan,Mishra,rohan.mishra195@opsflow.com,Sales,Sales Executive,119889,2020-09-15,Active
+EMP0196,Pooja,Chauhan,pooja.chauhan196@opsflow.com,Marketing,Marketing Manager,120097,2024-07-30,Active
+EMP0197,Aditi,Sharma,aditi.sharma197@opsflow.com,Finance,Accountant,50220,2021-02-02,Active
+EMP0198,Rohan,Singh,rohan.singh198@opsflow.com,HR,HR Manager,83629,2024-09-12,Active
+EMP0199,Varun,Singh,varun.singh199@opsflow.com,HR,Recruitment Specialist,47978,2025-06-27,Active
+EMP0200,Ishaan,Sharma,ishaan.sharma200@opsflow.com,Marketing,Marketing Manager,63477,2024-12-21,Active
+EMP0201,Diya,Srivastava,diya.srivastava201@opsflow.com,Finance,Financial Analyst,124873,2024-02-13,Active
+EMP0202,Siddharth,Mishra,siddharth.mishra202@opsflow.com,Engineering,Project Manager,71160,2022-02-16,On Leave
+EMP0203,Pooja,Verma,pooja.verma203@opsflow.com,Marketing,Marketing Executive,119109,2020-03-28,Active
+EMP0204,Kavya,Gupta,kavya.gupta204@opsflow.com,IT,IT Support Engineer,61896,2020-10-08,Inactive
+EMP0205,Rohan,Gupta,rohan.gupta205@opsflow.com,Sales,Sales Executive,141568,2022-08-12,Active
+EMP0206,Ananya,Malhotra,ananya.malhotra206@opsflow.com,Sales,Sales Executive,71342,2021-08-15,On Leave
+EMP0207,Rohan,Patel,rohan.patel207@opsflow.com,Operations,Operations Associate,49408,2020-04-15,Active
+EMP0208,Meera,Malhotra,meera.malhotra208@opsflow.com,Operations,Operations Associate,112182,2023-08-19,Active
+EMP0209,Ishaan,Sharma,ishaan.sharma209@opsflow.com,IT,IT Support Engineer,90176,2025-11-24,Active
+EMP0210,Akash,Yadav,akash.yadav210@opsflow.com,HR,HR Manager,102271,2021-03-22,Active
+EMP0211,Diya,Mehta,diya.mehta211@opsflow.com,Engineering,QA Engineer,95036,2020-05-07,Active
+EMP0212,Rahul,Srivastava,rahul.srivastava212@opsflow.com,HR,HR Manager,124928,2021-03-18,Active
+EMP0213,Pooja,Verma,pooja.verma213@opsflow.com,Engineering,QA Engineer,114730,2021-08-30,Active
+EMP0214,Ishaan,Mehta,ishaan.mehta214@opsflow.com,Marketing,Content Specialist,106874,2023-08-24,Active
+EMP0215,Shreya,Kumar,shreya.kumar215@opsflow.com,Finance,Accountant,101263,2024-10-28,Active
+EMP0216,Tanvi,Verma,tanvi.verma216@opsflow.com,Operations,Business Analyst,120316,2022-05-30,Active
+EMP0217,Diya,Dubey,diya.dubey217@opsflow.com,Finance,Accountant,87262,2024-08-30,Active
+EMP0218,Kavya,Dubey,kavya.dubey218@opsflow.com,Finance,Finance Manager,68408,2024-03-13,On Leave
+EMP0219,Simran,Chauhan,simran.chauhan219@opsflow.com,HR,HR Executive,46957,2020-12-15,Active
+EMP0220,Aman,Joshi,aman.joshi220@opsflow.com,Marketing,Marketing Manager,141400,2021-06-16,Active
+EMP0221,Sakshi,Kumar,sakshi.kumar221@opsflow.com,Sales,Sales Manager,122819,2021-05-15,Active
+EMP0222,Simran,Malhotra,simran.malhotra222@opsflow.com,HR,Recruitment Specialist,41743,2023-03-24,Active
+EMP0223,Meera,Verma,meera.verma223@opsflow.com,Sales,Business Development Executive,62884,2021-09-25,Active
+EMP0224,Diya,Srivastava,diya.srivastava224@opsflow.com,Engineering,QA Engineer,145804,2024-02-14,Active
+EMP0225,Ishaan,Mehta,ishaan.mehta225@opsflow.com,IT,DevOps Engineer,145776,2020-04-17,Active
+EMP0226,Simran,Srivastava,simran.srivastava226@opsflow.com,Marketing,Marketing Manager,38794,2022-01-08,Active
+EMP0227,Vivek,Patel,vivek.patel227@opsflow.com,Finance,Accountant,35800,2022-01-13,Inactive
+EMP0228,Sakshi,Agarwal,sakshi.agarwal228@opsflow.com,HR,HR Executive,53595,2020-05-05,Active
+EMP0229,Riya,Gupta,riya.gupta229@opsflow.com,HR,HR Manager,94460,2023-10-28,Active
+EMP0230,Karan,Joshi,karan.joshi230@opsflow.com,Finance,Finance Manager,113148,2020-12-13,Inactive
+EMP0231,Ananya,Singh,ananya.singh231@opsflow.com,Operations,Business Analyst,41522,2020-11-30,Active
+EMP0232,Simran,Dubey,simran.dubey232@opsflow.com,HR,Recruitment Specialist,92939,2024-08-23,Active
+EMP0233,Vivek,Kumar,vivek.kumar233@opsflow.com,Engineering,QA Engineer,91349,2021-03-30,Active
+EMP0234,Simran,Mehta,simran.mehta234@opsflow.com,HR,Recruitment Specialist,122442,2023-06-17,Active
+EMP0235,Neha,Mehta,neha.mehta235@opsflow.com,Engineering,Software Engineer,61794,2023-05-19,On Leave
+EMP0236,Vivek,Singh,vivek.singh236@opsflow.com,Operations,Operations Manager,72938,2023-09-05,Active
+EMP0237,Rahul,Joshi,rahul.joshi237@opsflow.com,HR,HR Executive,51932,2024-04-06,Active
+EMP0238,Diya,Kumar,diya.kumar238@opsflow.com,Sales,Business Development Executive,140670,2023-12-21,Active
+EMP0239,Varun,Sharma,varun.sharma239@opsflow.com,HR,HR Executive,95260,2020-11-14,Inactive
+EMP0240,Sakshi,Dubey,sakshi.dubey240@opsflow.com,Sales,Sales Manager,127995,2024-09-06,Active
+EMP0241,Neha,Sharma,neha.sharma241@opsflow.com,Finance,Financial Analyst,140030,2025-02-27,Inactive
+EMP0242,Meera,Verma,meera.verma242@opsflow.com,HR,HR Executive,66891,2024-11-19,Active
+EMP0243,Riya,Verma,riya.verma243@opsflow.com,HR,HR Manager,132754,2023-10-22,Active
+EMP0244,Vivek,Singh,vivek.singh244@opsflow.com,Engineering,Software Engineer,104547,2025-09-19,Active
+EMP0245,Vivek,Mishra,vivek.mishra245@opsflow.com,Finance,Finance Manager,142341,2021-08-27,Active
+EMP0246,Ananya,Patel,ananya.patel246@opsflow.com,IT,System Administrator,113957,2021-09-18,Active
+EMP0247,Siddharth,Verma,siddharth.verma247@opsflow.com,IT,IT Support Engineer,99764,2025-03-15,Active
+EMP0248,Vivek,Mehta,vivek.mehta248@opsflow.com,HR,Recruitment Specialist,108989,2023-08-16,Inactive
+EMP0249,Siddharth,Mishra,siddharth.mishra249@opsflow.com,IT,DevOps Engineer,43950,2025-04-04,Active
+EMP0250,Karan,Malhotra,karan.malhotra250@opsflow.com,Finance,Finance Manager,42362,2023-12-12,Active
+EMP0011,Neha,Patel,neha.patel11@opsflow.com,HR,Recruitment Specialist,144328,2024-02-03,Active
+EMP9991,Nikhil,Mehta,nikhil.mehta21@opsflow.com,Engineering,Project Manager,85019,2025-04-01,Active
