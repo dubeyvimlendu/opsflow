@@ -21,3 +21,13 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Temporary files
+data/uploads/
+
+# IDE
+.vscode/
+.idea/
